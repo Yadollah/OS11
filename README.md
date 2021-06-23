@@ -5,7 +5,7 @@
 
 __سوال 1 : در سایت سوالی جدید در مورد برنامه نویسی یا لینوکس بپرسید__
 
-پاسخ این سوال در کامنت تلگرام قرار داده شده است
+https://stackoverflow.com/questions/68090905/change-names-and-extensions-of-all-the-files-and-grouping-them-in-linux/68095009#68095009
 <br><br>
 
 __سوال 2 : به کمک لاتکس یک داکیومنت تک صفحه ای ایجاد نمایید__
